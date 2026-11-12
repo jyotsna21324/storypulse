@@ -1,0 +1,81 @@
+story_id,story_title,genre,episode_number,episode_starts,episode_completions,next_episode_starts
+ST001,The Last Promise,Romance,1,9200,8040,7695
+ST001,The Last Promise,Romance,2,7695,6961,6442
+ST001,The Last Promise,Romance,3,6442,5331,5391
+ST001,The Last Promise,Romance,4,5391,4694,3387
+ST001,The Last Promise,Romance,5,3387,2994,2827
+ST001,The Last Promise,Romance,6,2827,2603,2391
+ST001,The Last Promise,Romance,7,2391,2113,2048
+ST001,The Last Promise,Romance,8,2048,1730,1683
+ST001,The Last Promise,Romance,9,1683,1558,1424
+ST001,The Last Promise,Romance,10,1424,1248,
+ST002,Midnight Witness,Thriller,1,7800,6467,6968
+ST002,Midnight Witness,Thriller,2,6968,6251,6077
+ST002,Midnight Witness,Thriller,3,6077,5297,5480
+ST002,Midnight Witness,Thriller,4,5480,4870,4874
+ST002,Midnight Witness,Thriller,5,4874,4099,4384
+ST002,Midnight Witness,Thriller,6,4384,3626,2956
+ST002,Midnight Witness,Thriller,7,2956,2538,2408
+ST002,Midnight Witness,Thriller,8,2408,2193,2064
+ST002,Midnight Witness,Thriller,9,2064,1728,1851
+ST002,Midnight Witness,Thriller,10,1851,1564,
+ST003,A House by the Sea,Family Drama,1,6400,5566,5042
+ST003,A House by the Sea,Family Drama,2,5042,4581,3998
+ST003,A House by the Sea,Family Drama,3,3998,3567,3222
+ST003,A House by the Sea,Family Drama,4,3222,2889,2598
+ST003,A House by the Sea,Family Drama,5,2598,2221,2012
+ST003,A House by the Sea,Family Drama,6,2012,1806,1566
+ST003,A House by the Sea,7,1566,1506,1227
+ST003,A House by the Sea,Family Drama,8,1227,1033,944
+ST003,A House by the Sea,Family Drama,9,944,878,764
+ST003,A House by the Sea,Family Drama,10,764,695,
+ST004,The Hidden Heir,Drama,1,8100,7101,7255
+ST004,The Hidden Heir,Drama,2,7255,6249,5981
+ST004,The Hidden Heir,Drama,3,5981,4961,5286
+ST004,The Hidden Heir,Drama,4,5286,4699,4550
+ST004,The Hidden Heir,Drama,5,4550,4119,3877
+ST004,The Hidden Heir,Drama,6,3877,3727,3391
+ST004,The Hidden Heir,Drama,7,3391,2912,2969
+ST004,The Hidden Heir,Drama,8,2969,2526,2512
+ST004,The Hidden Heir,Drama,9,2512,2161,2220
+ST004,The Hidden Heir,Drama,10,2220,2012,
+ST005,Seven Days to Goodbye,Romance,1,7000,6088,5613
+ST005,Seven Days to Goodbye,Romance,2,5613,4727,4344
+ST005,Seven Days to Goodbye,Romance,3,4344,3886,2545
+ST005,Seven Days to Goodbye,Romance,4,2545,2238,2163
+ST005,Seven Days to Goodbye,Romance,5,2163,1916,1788
+ST005,Seven Days to Goodbye,Romance,6,1788,1629,1515
+ST005,Seven Days to Goodbye,Romance,7,1515,1280,1253
+ST005,Seven Days to Goodbye,Romance,8,1253,1119,1056
+ST005,Seven Days to Goodbye,Romance,9,1056,928,898
+ST005,Seven Days to Goodbye,Romance,10,898,779,
+ST006,The Silent Case,Mystery,1,5900,5216,5368
+ST006,The Silent Case,Mystery,2,5368,4512,4601
+ST006,The Silent Case,Mystery,3,4601,4278,3985
+ST006,The Silent Case,Mystery,4,3985,3603,3548
+ST006,The Silent Case,Mystery,5,3548,3211,2876
+ST006,The Silent Case,Mystery,6,2876,2476,2542
+ST006,The Silent Case,Mystery,7,2542,2237,2172
+ST006,The Silent Case,Mystery,8,2172,1831,1983
+ST006,The Silent Case,Mystery,9,1983,1840,1704
+ST006,The Silent Case,Mystery,10,1704,1478,
+ST007,Between Two Worlds,Fantasy,1,5200,4350,4173
+ST007,Between Two Worlds,Fantasy,2,4173,3496,3361
+ST007,Between Two Worlds,Fantasy,3,3361,2958,2763
+ST007,Between Two Worlds,Fantasy,4,2763,2459,2368
+ST007,Between Two Worlds,Fantasy,5,2368,1976,1454
+ST007,Between Two Worlds,Fantasy,6,1454,1296,1159
+ST007,Between Two Worlds,Fantasy,7,1159,952,978
+ST007,Between Two Worlds,Fantasy,8,978,881,807
+ST007,Between Two Worlds,Fantasy,9,807,730,677
+ST007,Between Two Worlds,Fantasy,10,677,583,
+ST008,Letters from Jaipur,Drama,1,6800,6031,5432
+ST008,Letters from Jaipur,Drama,2,5432,5164,4483
+ST008,Letters from Jaipur,Drama,3,4483,3995,3652
+ST008,Letters from Jaipur,Drama,4,3652,3163,2888
+ST008,Letters from Jaipur,Drama,5,2888,2625,2416
+ST008,Letters from Jaipur,Drama,6,2416,2122,2093
+ST008,Letters from Jaipur,Drama,7,2093,1875,1679
+ST008,Letters from Jaipur,Drama,8,1679,1506,1415
+ST008,Letters from Jaipur,Drama,9,1415,1301,1150
+ST008,Letters from Jaipur,Drama,10,1150,1040,
